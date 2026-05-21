@@ -2,9 +2,9 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [4월 첫째주, 1주차] : html, css
+### [5월 셋째주, 2주차] : Web 및 Spring Boot 기본
 
-24.04.05 세부 주제 4 작성 (상세 내역 링크)
+26.05.21 세부 주제 4 작성 [(상세 내역 링크)](https://github.com/100-hours-a-week/KTB-Milo-TIL/blob/main/2026-5/2026-05-21.md)
 
 24.04.04 세부 주제 3 작성 (상세 내역 링크)
 
