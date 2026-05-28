@@ -8,9 +8,9 @@
 
 ### [5월 넷째주, 3주차] : 데이터베이스
 
-26.05.27 # HTTP 자격 증명 헤더, JWT, 레이어드 아키텍처[(상세 내역 링크)](https://github.com/100-hours-a-week/KTB-Milo-TIL/blob/main/2026-5/2026-05-27.md)
+26.05.27 HTTP 자격 증명 헤더, JWT, 레이어드 아키텍처[(상세 내역 링크)](https://github.com/100-hours-a-week/KTB-Milo-TIL/blob/main/2026-5/2026-05-27.md)
 
-yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
+26.05.28 NoSQL, 서버 캐시 [(상세 내역 링크)](https://github.com/100-hours-a-week/KTB-Milo-TIL/blob/main/2026-5/2026-05-28.md)
 
 yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
 
